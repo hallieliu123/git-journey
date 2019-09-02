@@ -1,8 +1,8 @@
 # git-journey
 
-# to summarize knowledge about git
+- to summarize knowledge about git
 
-# to review regularly
+- to review regularly
 
 
 
