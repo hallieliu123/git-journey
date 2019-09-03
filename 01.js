@@ -86,7 +86,7 @@
 
 //      git pull 直接拉取远程 并 覆盖本地 （没有警告代码不同部分
 
-// 13.管理分支
+// 13.管理分支 1
 
 //      git branch  查看所有分支
 
@@ -96,7 +96,14 @@
 
 //          git checkout -b < branch name > 创建并检出分支 
 
+//      git merge < branch name > 将branch name分支 合并到当前分支
 
+// 14.管理分支 2
+
+//       git branch --merged  查看已合并分支
+//       git branch --no-merged 查看未合并分支
+//       git branch -d < branch name > 删除分支（有未合并内容不可删除）   
+//              git branch -D < branch name > 强制删除分支（有未合并内容强制删除）       
 
 
 
