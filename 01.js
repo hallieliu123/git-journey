@@ -45,16 +45,35 @@
 
 //    git commit -m 'memo' --amend 撤销上次操作，一起提交本次操作 
 
+// 9.删除操作
+
+//    git rm < filename >
+
+//    git rm -f < filename >
+
+//    git rm --cached < filename >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //    处逆境中,周身皆针砭药石，砥节砺行而不觉。
-
-
-
-
-
-
-
-
-
 // Anything in life worth having would take patience, sacrifices and be a lot of work.
 
 
