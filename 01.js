@@ -11,6 +11,8 @@
 
 // 工作区   暂存区   版本库 
 
+// ( 暂存区和版本库都在本地隐藏目录.git内，它包含很多东西，
+//        其中最重要的就是：暂存区（ index 里面存的都是索引 ）和 分支 ），其中还有一个HEAD文件是一个指针，指向当前分支 )
 
 // 操作命令
 
@@ -26,15 +28,34 @@
 
 // 6. git log 查看提交记录
 
-// 7. git reset HEAD < filename > 从暂存区撤回
 
-// 8. 对比
+// 7. 对比
 
 //    git diff 工作区 对比 暂存区
 
 //    git diff --cached(staged) 暂存区 对比 版本库
 
 //    git diff master 工作区 对比 版本库
+
+// 8. 撤销操作 
+
+//    git reset HEAD < filename > 暂存区内容撤销
+
+//    git checkout --< filename > 工作区撤销至暂存区/版本库版本
+
+//    git commit -m 'memo' --amend 撤销上次操作，一起提交本次操作 
+
+
+
+
+
+
+
+
+
+
+
+// Anything in life worth having would take patience, sacrifices and be a lot of work.
 
 
 
