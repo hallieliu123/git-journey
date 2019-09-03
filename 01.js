@@ -84,7 +84,7 @@
 
 //         git merge origin/master  远程库不同内容写入本地，然后进行手动对比删改
 
-//      git pullf 拉取远程 并 覆盖本地
+//      git pull 拉取远程 并 覆盖本地
 
 
 
