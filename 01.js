@@ -18,7 +18,7 @@
 
 // 1. git clone < URL >  
 
-// 2. git status 对比工作区和暂存区代码
+// 2. git status 对比工作区和暂存区代码  
 
 // 3. git add < filename > 添加此更改文件代码  || git add. 添加所有更改文件代码
 
@@ -47,11 +47,11 @@
 
 // 9.删除操作
 
-//    git rm < filename >
+//    git rm < filename >  本地必须删除了后，运行此行删除暂存区
 
-//    git rm -f < filename >
+//    git rm -f < filename >  强制删除本地和暂存区
 
-//    git rm --cached < filename >
+//    git rm --cached < filename > 只删除暂存区 
 
 
 // 10.恢复操作
@@ -113,41 +113,7 @@
 
 
 
-
-
 // cd     ||    mkdir  ||     ls       || echo 'blablabla~'(.) > name.txt    ||  touch name.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
