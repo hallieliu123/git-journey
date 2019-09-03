@@ -66,6 +66,14 @@
 
 //     git reflog 查看版本日志
 
+// 11. 同步远程仓库
+
+//     git remote 查看远程仓库名
+
+//         git remote -v 查看远程仓库地址
+
+//     git push 仓库名 分支
+
 
 
 
