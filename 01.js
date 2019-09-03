@@ -28,6 +28,15 @@
 
 // 7. git reset HEAD < filename > 从暂存区撤回
 
+// 8. 对比
+
+//    git diff 工作区 对比 暂存区
+
+//    git diff --cached(staged) 暂存区 对比 版本库
+
+//    git diff master 工作区 对比 版本库
+
+
 
 
 
