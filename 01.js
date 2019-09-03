@@ -72,7 +72,20 @@
 
 //         git remote -v 查看远程仓库地址
 
-//     git push 仓库名 分支
+//     git push 仓库名 分支 
+
+// github 怎样区分提交的对应开发人员呢 ？？？
+
+// 12. 多人协作解决冲突
+
+//     git fetch  只拉取
+
+//         git diff master origin/master  本地mater版本库与远程库对比
+
+//         git merge origin/master  远程库不同内容写入本地，然后进行手动对比删改
+
+//      git pullf 拉取远程 并 覆盖本地
+
 
 
 
