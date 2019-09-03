@@ -82,9 +82,9 @@
 
 //         git diff master origin/master  本地mater版本库与远程库对比
 
-//         git merge origin/master  远程库不同内容写入本地，然后进行手动对比删改
+//         git merge origin/master  远程库不同内容写入本地，然后进行手动对比删改  ( 测试失败，真是神了 )
 
-//      git pull 拉取远程 并 覆盖本地
+//      git pull 拉取远程 并 覆盖本地  
 
 
 
