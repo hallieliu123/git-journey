@@ -26,6 +26,10 @@
 
 // 6. git log 查看提交记录
 
+// 7. git reset HEAD < filename > 从暂存区撤回
+
+
+
 
 
 
