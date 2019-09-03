@@ -54,6 +54,35 @@
 //    git rm --cached < filename >
 
 
+// 10.恢复操作
+
+//     git checkout 版本id < filename >  从版本中恢复一个文件
+
+//     git reset --hard 版本id 从版本中恢复所有
+
+//         git reset --hard HEAD^ 恢复至前一个版本
+
+//         git reset --hard HEADE~< num > 恢复至前 num 个版本
+
+//     git reflog 查看版本日志
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
