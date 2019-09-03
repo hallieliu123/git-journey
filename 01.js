@@ -41,7 +41,7 @@
 
 //    git reset HEAD < filename > 暂存区内容撤销
 
-//    git checkout --< filename > 工作区撤销至暂存区/版本库版本
+//    git checkout --< filename > 工作区撤销至暂存区版本
 
 //    git commit -m 'memo' --amend 撤销上次操作，一起提交本次操作 
 
@@ -74,17 +74,27 @@
 
 //     git push 仓库名 分支 
 
-// github 怎样区分提交的对应开发人员呢 ？？？
+// github 怎样区分提交的对应开发人员
 
 // 12. 多人协作解决冲突
 
-//     git fetch  只拉取
+//     git fetch  只拉取  ( 目前测试是个很不好的操作 )
 
 //         git diff master origin/master  本地mater版本库与远程库对比
 
 //         git merge origin/master  远程库不同内容写入本地，然后进行手动对比删改  ( 测试失败，真是神了 )
 
-//      git pull 拉取远程 并 覆盖本地  
+//      git pull 直接拉取远程 并 覆盖本地 （没有警告代码不同部分
+
+// 13.管理分支
+
+//      git branch  查看所有分支
+
+//      git branch < branch name > 创建分支
+
+//      git chechout < branch name > 切换分支
+
+//          git checkout -b < branch name > 创建并检出分支 
 
 
 
