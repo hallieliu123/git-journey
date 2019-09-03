@@ -103,8 +103,19 @@
 //       git branch --merged  查看已合并分支
 //       git branch --no-merged 查看未合并分支
 //       git branch -d < branch name > 删除分支（有未合并内容不可删除）   
-//              git branch -D < branch name > 强制删除分支（有未合并内容强制删除）       
+//              git branch -D < branch name > 强制删除分支（有未合并内容强制删除）    
+//       git push < 名称 > < new branch name > 推送新分支至远程库
 
+// 15. 打标签，生成版本
+
+//     git tag 查看所有版本
+//     git tag v1.0 打版本号  -->  git push < 名称 > < 版本号 > 推送版本到远程库 
+
+
+
+
+
+// cd     ||    mkdir  ||     ls       || echo 'blablabla~'(.) > name.txt    ||  touch name.txt
 
 
 
