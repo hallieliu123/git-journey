@@ -118,7 +118,7 @@
 
 
 
-// Anything in life worth having would take patience, sacrifices and be a lot of work.
+// God help those who help themselves.
 
 
 
