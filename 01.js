@@ -117,7 +117,7 @@
 
 
 
-//    处逆境中,周身皆针砭药石，砥节砺行而不觉。
+
 // Anything in life worth having would take patience, sacrifices and be a lot of work.
 
 
