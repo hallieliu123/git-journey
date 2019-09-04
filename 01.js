@@ -62,7 +62,7 @@
 
 //         git reset --hard HEAD^ 恢复至前一个版本
 
-//         git reset --hard HEADE~< num > 恢复至前 num 个版本
+//         git reset --hard HEAD~< num > 恢复至前 num 个版本
 
 //     git reflog 查看版本日志
 
@@ -74,7 +74,7 @@
 
 //     git push 仓库名 分支 
 
-// github 怎样区分提交的对应开发人员
+
 
 // 12. 多人协作解决冲突
 
