@@ -94,7 +94,7 @@
 
 //      git chechout < branch name > 切换分支
 
-//          git checkout -b < branch name > 创建并检出分支 
+//          git checkout -b < branch name > 创建并切换分支 
 
 //      git merge < branch name > 将branch name分支 合并到当前分支
 
@@ -118,7 +118,7 @@
 
 
 
-// Anything in life worth having would take patience, sacrifices and be a lot of work.
+// hello world 
 
 
 
