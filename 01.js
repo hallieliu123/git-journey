@@ -111,7 +111,7 @@
 //     git tag 查看所有版本
 //     git tag v1.0 打版本号  -->  git push < 名称 > < 版本号 > 推送版本到远程库 
 //     git tag -d v1.0 删除本地版本号
-//     git tag v1.0 commitid 给指定的版本号打版本
+//     git tag v1.0 commitid 给指定的版本号打版本 
 
 
 // cd     ||    mkdir  ||     ls       || echo 'blablabla~'(.) > name.txt    ||  touch name.txt
