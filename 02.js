@@ -19,6 +19,7 @@
 
 // 1.git stash drop 'list num' 删除某个 num 缓存
 // 2.git stash pop 删除第一个缓存 
+// 3.git stash clear 清除所有缓存
 
 
 
