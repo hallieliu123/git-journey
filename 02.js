@@ -3,7 +3,7 @@
 // 添加缓存
 
 // 1. git stash save 'message'  缓存 unstaged tracked files 的 changes 和 staged changes，‘message’ 为标识存储的信息
-// 2. git stash -u (--include-untracked) 可缓存 untracked 文件
+// 2. git stash save -u '' (--include-untracked) 可缓存 untracked 文件
 
 // 应用缓存
 
