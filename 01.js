@@ -109,12 +109,16 @@
 // 15. 打标签，生成版本
 
 //     git tag 查看所有版本
-//     git tag v1.0 打版本号  -->  git push < 名称 > < 版本号 > 推送版本到远程库 
+//     git tag v1.0 打版本号( ?? 用的是当前版本库内的master分支吗??)  -->  git push < 名称 > < 版本号 > 推送版本到远程库 
 //     git tag -d v1.0 删除本地版本号
 //     git tag v1.0 commitid 给指定的版本号打版本 
 
 
 // cd     ||    mkdir  ||     ls       || echo 'blablabla~'(.) > name.txt    ||  touch name.txt
+// cat 文件名称 : 返回文件内容
+// pwd ： 返回当前文件的绝对路径
+// 
+
 
 // esc -> :q
 
