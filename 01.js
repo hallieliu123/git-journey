@@ -43,7 +43,7 @@
 
 //    git checkout --< filename > 工作区撤销至暂存区版本
 
-//    git commit -m 'memo' --amend 撤销上次操作，一起提交本次操作 
+//    git commit -m 'memo' --amend 撤销上次操作，一起提交本次操作    --> git push --force-with-lease origin master 强制推送并修改提交信息
 
 // 9.删除操作
 
