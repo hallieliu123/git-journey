@@ -8,6 +8,19 @@
 // git config --global user.name 'Ocean'
 // git config --global user.email 'hallieliu123@163.com'
 
+// git config --local user.name 'abc'
+// git config --local user.email 'abc@163.com'
+
+// 查看 git config global 设置
+// git config --global --list
+// 查看 git config local 设置
+// git config --local --list
+
+// unset config
+
+// git config --global --unset https.proxy
+// git config --local --unset https.proxy
+
 
 // 工作区   暂存区   版本库 
 
